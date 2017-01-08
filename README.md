@@ -15,4 +15,4 @@
   fit the collar on your microscope. 
 
 # License:
-See the LICENSE.txt file for copyright and conditions for re-use.
+See the [LICENSE.txt](LICENSE.txt) file for copyright and conditions for re-use.
